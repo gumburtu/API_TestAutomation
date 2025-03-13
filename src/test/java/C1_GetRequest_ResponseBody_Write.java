@@ -3,7 +3,7 @@ import org.junit.Test;
 
 import static io.restassured.RestAssured.given;
 
-public class C1_GetRequest_ResponseBody {
+public class C1_GetRequest_ResponseBody_Write {
     @Test
     public void get01() {
         // https://restful-booker.herokuapp.com/booking/10 url'sine
